@@ -1,0 +1,16 @@
+python-dotenv
+langchain
+langchain-core
+langchain-community
+langchain-mistralai
+langgraph
+tavily-python
+requests
+beautifulsoup4
+lxml
+arxiv
+wikipedia==1.4.0
+yfinance
+pydantic
+pytest
+streamlit
